@@ -65,7 +65,7 @@ HELP_4 = """✅<u>**ᴇᴋsᴛʀᴀ ᴋᴏᴍᴜᴛʟᴀʀ:**</u>
 """
 
 
-HELP_5 = """🔰**<u>ʙᴜʀᴀsɪ ᴄ̧ᴏᴋ ᴏ̈ɴᴇᴍʟɪ̇ ᴅᴇɢ̆ɪ̇ʟ, sᴀᴅᴇᴄᴇ ʙᴏᴛ ʏᴏ̈ɴᴇᴛɪ̇ᴄɪ̇ʟᴇʀɪ̇ ɪ̇ᴄ̧ɪ̇ɴ ʙɪ̇ʀ ʀᴇʜʙᴇʀ:</u>**
+HELP_6 = """🔰**<u>ʙᴜʀᴀsɪ ᴄ̧ᴏᴋ ᴏ̈ɴᴇᴍʟɪ̇ ᴅᴇɢ̆ɪ̇ʟ, sᴀᴅᴇᴄᴇ ʙᴏᴛ ʏᴏ̈ɴᴇᴛɪ̇ᴄɪ̇ʟᴇʀɪ̇ ɪ̇ᴄ̧ɪ̇ɴ ʙɪ̇ʀ ʀᴇʜʙᴇʀ:</u>**
 
 /addsudo [ᴋᴜʟʟᴀɴıᴄı ᴀᴅı ᴠᴇʏᴀ ᴋᴜʟʟᴀɴıᴄıʏᴀ ʏᴀɴıᴛ]
 /delsudo [ᴋᴜʟʟᴀɴıᴄı ᴀᴅı ᴠᴇʏᴀ ᴋᴜʟʟᴀɴıᴄıʏᴀ ʏᴀɴıᴛ]
@@ -119,5 +119,74 @@ HELP_5 = """🔰**<u>ʙᴜʀᴀsɪ ᴄ̧ᴏᴋ ᴏ̈ɴᴇᴍʟɪ̇ ᴅᴇɢ̆ɪ�
 **-ɴᴏʙᴏᴛ** : ʙᴜ, ʙᴏᴛᴜɴᴜᴢᴜ ᴍᴇsᴀᴊ ʏᴀʏıɴʟᴀᴍᴀᴍᴀʏᴀ ᴢᴏʀʟᴀʏᴀᴄᴀᴋᴛıʀ.
 
 **ᴏ̈ʀɴᴇᴋ:** `/ʙʀᴏᴀᴅᴄᴀsᴛ -ᴜsᴇʀ -ᴀssɪsᴛᴀɴᴛ -ᴘɪɴ ʟᴏsᴛ ᴍᴜ̈ᴢɪᴋ`
+
+"""
+
+HELP_7 = """🥳**<u>ᴇɢ‌ʟᴇɴᴄᴇʟɪ ᴋᴏᴍᴜᴛʟᴀʀ":</u>**
+herkes için geçerli konutlar 
+
+❤️‍🔥  /eros | eros  –  Eros oku atar.
+
+📝  /burc  –  Burçlarınızı yorumlarım.
+
+✨ /mani  –  Mani söylerim.
+
+👋  /slap  –  Birini tokatlayın.
+
+🎲  /zar  –  Rastgele bir zar atın.
+
+🎯  /dart  –  Dart atar.
+
+🎰  /slot  –  Şans slot'u çevirir.
+
+⚽️  /futbol  –  Kaleye top atar.
+
+🎳  /bowling  –  Bowling atar.
+
+🪙  /para  –  Rastgele bir para atın.
+
+👋  /slap  –  Birini tokatlayın.
+
+🤣  /saka  –  Rastgele bir şaka gönderin.
+
+📜  /soz  –  Rastgele bir söz gönderin. 
+
+📢  /tts  –  Bir metni sese çevirir.
+"""
+
+HELP_8 = """💬**<u>ᴇᴛɪᴋᴇᴛ ᴋᴏᴍᴜᴛʟᴀʀ":</u>**
+etiket komutları sadece yöneticiler 
+
+🏷️ /tag - Tek tek etiketler.
+
+🏷️ /utag - Çoklu etiketler.
+
+🏷️ /etag - Emoji ile etiketler.
+
+🏷️ /igtag - iyi geceler mesajları ile etiketler.
+
+🏷️ /guntag - günaydın mesajları ile etiketler.
+
+🏷️ /btag - Bayrak ile etiketler.
+
+🏷️ /sorutag - Sorularla etiketler.
+
+🏷️ /ktag - Karakter ile etiketler.
+
+🏷️ /stag - Sözlerle etiketler.
+
+🏷️ /stop - Etiket işlemini bitirir.
+"""
+
+HELP_9 = """🕺**<u>chat mode:</u>**
+yapay zeka 
+
+/chatmode 
+
+örnek 
+
+aktif et /chatmode aç 
+
+kapat /chatmode kapat
 
 """
