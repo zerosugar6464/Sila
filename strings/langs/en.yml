@@ -79,7 +79,7 @@ admin_34 : "ɪ̇ʟᴇʀɪ sᴀʀıʟıʀᴋᴇɴ ʜᴀᴛᴀ ᴏʟᴜşᴛᴜ."
 # Bot 
 
 start_1 : "нєу, ɪ ᴀᴍ {0} 🥀.\n\n➻ Ben bazı yararlı özelliklere sahip bir Telegram akış botuyum.\n\nDesteklenen platformlar: YouTube, Spotify, SoundCloud vb.\n\n๏ Beni gruplarınıza eklemekten çekinmeyin."
-start_2 : "merhaba ben {0}.\n\nʙᴀᴢɪ  Harika özelliklere sahip, hızlı ve güçlü bir Telegram müzik çalar botu.\n\n Desteklenen Platformlar: </b>  YouTube, Spotify, Resco, Apple Music ve SoundCloud.\n──────────────────\n  ๏ Modüllerim ve komutlarım hakkında bilgi almak için Yardım düğmesini tıklayın.</b>"
+start_2 : "merhaba ben {0}.\n\n Bazı Harika özelliklere sahip, hızlı ve güçlü bir Telegram müzik çalar botu.\n\n Desteklenen Platformlar: </b>  YouTube, Spotify, Resco, Apple Music ve SoundCloud.\n──────────────────\n  ๏ Modüllerim ve komutlarım hakkında bilgi almak için Yardım düğmesini tıklayın.</b>"
 start_3 : "{0} sahibi {1} sohbetinize katıldı."
 start_4 : "{0} sudo kullanıcısı {1} sohbetinize katıldı."
 start_5 : "🦸 SÜPERGRUP GEREKLİ 🦸\n\nLütfen grubunuzu süpergrup'a dönüştürün ve ardından beni tekrar ekleyin.\n\nSüpergrup nasıl yapılır?\n🥱 Grubunuzun sohbet geçmişini bir kez görünür yapın."
