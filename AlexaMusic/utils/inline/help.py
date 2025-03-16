@@ -20,9 +20,6 @@ from AlexaMusic import app
 def help_pannel(_, START: Union[bool, int] = None):
     first = [InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data=f"close")]
     second = [
-        InlineKeyboardButton(
-            text=_["BACK_BUTTON"],
-            callback_data="help_back",
         ),
         InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data=f"close"),
     ]
@@ -76,9 +73,7 @@ def help_pannel(_, START: Union[bool, int] = None):
 def help_back_markup(_):
     upl = InlineKeyboardMarkup(
         [
-            [
-                InlineKeyboardButton(
-                    text=_["BACK_BUTTON"],
+            [                
                     callback_data=f"settings_back_helper",
                 ),
                 InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data=f"close"),
