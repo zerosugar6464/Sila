@@ -25,3 +25,4 @@ TgCrypto>=1.2.5
 unidecode
 yt-dlp
 youtube-search-python
+numpy
