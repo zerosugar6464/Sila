@@ -40,13 +40,7 @@ async def gen_thumb(videoid):
     try:
         results = VideosSearch(url, limit=1)
         for result in (await results.next())["result"]:
-            try:
-                title = result["title"]
-                title = re.sub("\W+", " ", title)
-                title = title.title()
-            except:
-                title = "Unsupported Title"
-            try:
+            try:                
                 duration = result["duration"]
             except:
                 duration = "Unknown Mins"
