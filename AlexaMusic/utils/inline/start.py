@@ -32,7 +32,7 @@ def start_pannel(_):
         buttons.append(
             [
                 InlineKeyboardButton(text=_["S_B_4"], url=f"{SUPPORT_CHANNEL}"),
-                InlineKeyboardButton(text=_["S_B_3"], url=f"{SUPPORT_GROUP}"),
+                InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/the_team_kumsal"),
             ]
         )
     else:
@@ -42,7 +42,7 @@ def start_pannel(_):
             )
         if SUPPORT_GROUP:
             buttons.append(
-                [InlineKeyboardButton(text=_["S_B_3"], url=f"{SUPPORT_GROUP}")]
+                [InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/the_team_kumsal")]
             )
     return buttons
 
@@ -55,7 +55,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         buttons.append(
             [
                 InlineKeyboardButton(text=_["S_B_4"], url=f"{SUPPORT_CHANNEL}"),
-                InlineKeyboardButton(text=_["S_B_3"], url=f"{SUPPORT_GROUP}"),
+                InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/the_team_kumsal"),
             ]
         )
     else:
