@@ -241,7 +241,7 @@ stream_4 : "┏━━━━━━━━━━━━━━━━⧫\n┠ 🀄 **S
 
 #General Buttons
 CLOSE_BUTTON  : "ᴋᴀᴘᴀᴛ"
-CLOSE_BUTTON  : "🗑️ 𝙈𝙀𝙉𝙐̈𝙔𝙐̈ 𝙆𝘼𝙋𝘼𝙏"
+CLOSEMENU_BUTTON  : "🗑️ 𝙈𝙀𝙉𝙐̈𝙔𝙐̈ 𝙆𝘼𝙋𝘼𝙏"
 BACK_BUTTON : "ɢᴇʀɪ"
 UNBAN_BUTTON : "ᴀsɪsᴛᴀɴ ʏᴀsᴀɢ̆ɪɴɪ ᴋᴀʟᴅɪʀ"
 
