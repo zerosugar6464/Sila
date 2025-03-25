@@ -12,7 +12,7 @@ lyricsgenius
 motor
 pillow
 psutil
-pykeyboar
+pykeyboard
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 python-dotenv
 pyyaml
