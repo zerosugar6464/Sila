@@ -28,7 +28,6 @@ werkzeug==2.0.2
 yt-dlp
 py-yt-search
 pyyaml
-youtubesearchpython
 tgcrypto
 youtube-search
 youtube-search-python
