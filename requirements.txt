@@ -29,3 +29,7 @@ yt-dlp
 py-yt-search
 pyyaml
 youtubesearchpython
+tgcrypto
+youtube-search
+youtube-search-python
+yt-dlp
