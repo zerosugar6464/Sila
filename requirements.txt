@@ -14,7 +14,7 @@ pillow
 pykeyboard2
 psutil
 pytube
-pip3 install --upgrade py-tgcalls==0.9.7
+pytgcalls
 python-dotenv
 pyyaml
 requests
