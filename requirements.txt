@@ -28,3 +28,6 @@ werkzeug==2.0.2
 yt-dlp
 py-yt-search
 pyyaml
+youtube-search
+youtube-search-python
+yt-dlp
