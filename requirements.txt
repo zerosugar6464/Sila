@@ -1,6 +1,7 @@
 unidecode
 aiofiles
 numpy
+kurigram==2.1.39
 aiofiles
 aiohttp
 asyncio
