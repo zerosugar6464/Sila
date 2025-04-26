@@ -21,7 +21,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "29772838"))
 API_HASH = getenv("API_HASH", "15ce514f4f3fcea70d7a49dc5064b839")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7910907997:AAH2ZiNiJftPIlMbKRnoMNorikVBNSFhs3Y")
+BOT_TOKEN = getenv("BOT_TOKEN", "7910907997:AAF1OZMg0eUFR762S_5A1b4oit3zwFeqmNQ")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kurt67143:DLArCT171SF9wRKJ@alexsoza.xpoqv.mongodb.net/?retryWrites=true&w=majority&appName=Alexsoza")
 
@@ -87,7 +87,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 
-STRING1 = getenv("STRING_SESSION", "BAE9wNoAc9_ZwAjUoIOyfK-APNX38ckr46knMsR3yt-UsZywFruwkOq7sYIDQ4KXTNzjjJEdNI_P3Z7lP31VagS7Sppv-l81OSAi95SUz9i8BI_-rpDZXUNbt-Si7pEIdvUUyPpO9d9gu1gr9775bRRmcP16PLZZ51WaT3-fh1p7x7t_DErYUTYrxGxqeWujok8y0mU5KPqC46FOOMZkNaFT2mIoqZoUkYmTxVrjEtGQjTWjoTxELP3JNi0pbBqIEkivxykDqtM9qZk-1vpmwiLv4cYmWrPFeZhgSPnPv03wWPEaB19vSXV82vbJt0IMPU7SLv8DE5HuVydUTikgkdKwKOux9AAAAAHSIIiUAA")
+STRING1 = getenv("STRING_SESSION", "BAFDZnYAxB0wHqdsidHqxdvQkPmM4HLEVlQ3OZ0e4u0jBWGrk3W73NseXzpYwzaGdV-qpg-iO3Hgrtm2bCleTzxdr7EwdSpFMTND_wztwkpmsnmrtao4KwOrdRm1mHVi8Sxs7chK04lbMEeQ3zfAMbdmkA9JLgVWwTSxsz9zaZJ5KZhhv-pB1efAysuuK6U--yZWxFZc42GSYApKAkHPzenJK0_KIdBXX8GOXwuBP0eklzoe0vHk4SMhCktSAq9iMGpop6td7Bf7O4lfwbuaBW4MLMpmMGKrabCn-4xijrrS14HDtWm603SoZNUh_g64oRJ0s-odxsiJ3zYutqHT3ttT6J5pbQAAAAHSIIiUAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
