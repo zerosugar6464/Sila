@@ -21,7 +21,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "29772838"))
 API_HASH = getenv("API_HASH", "15ce514f4f3fcea70d7a49dc5064b839")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7910907997:AAF1OZMg0eUFR762S_5A1b4oit3zwFeqmNQ")
+BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kurt67143:DLArCT171SF9wRKJ@alexsoza.xpoqv.mongodb.net/?retryWrites=true&w=majority&appName=Alexsoza")
 
@@ -29,7 +29,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002589495344"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "sıla müzik bot")
 
@@ -37,7 +37,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7989065012"))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-BOT_ID = getenv("BOT_ID", "7910907997")
+BOT_ID = getenv("BOT_ID", "7910907996")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
@@ -87,7 +87,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 
-STRING1 = getenv("STRING_SESSION", "BAFDZnYAMYcJnHJLoBc674VuEzaF-qjqm-sihCf6PLqvpjSLWfmG4MM1K0MefNsmOj3kcDRfFCwzdk0os9rY52BA8lw5QNTkI7NP8a-LXArlIBFdfM0W_1w-lumhvLTIEafzzwQIKRIDwpeL73E4WPQZmSzlcVz2ViSpLkVRidzGUIUmgCxZW5CSDEmHhOtOaoxuqmlsXbmoYYMS5bEEA3DIQ94cZczviqlL-x4p3uGkdGLs2LimFAZ5jQ7uNI0VZg-zPdQD9k70AsYAH9_88K9_aEpMKoZ0IFtEv6kJIf8AlnzbtzW1-zxYnydN1zg8WpBuFau7NnE1RN4HsgnWqh9EGGNt0wAAAAHSIIiUAA")
+STRING1 = getenv("STRING_SESSION",  None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
